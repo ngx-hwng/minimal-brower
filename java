@@ -53,7 +53,6 @@
     "on": true,
     "selected": "Social",
     "groups": [
-      "blank",
       "Productivity",
       "Social",
       "AI tools",
@@ -68,15 +67,15 @@
   },
   "backgrounds": {
     "type": "files",
-    "fadein": 1200,
+    "fadein": 0,
     "blur": 0,
-    "bright": 0.59,
+    "bright": 0.63,
     "frequency": "pause",
     "color": "#185A63",
     "urls": "",
     "images": "unsplash-images-search",
     "videos": "bonjourr-videos-daylight",
-    "mute": true,
+    "mute": false,
     "queries": {
       "unsplash-images-collections": "LU0xO5Xqm2M"
     },
@@ -144,7 +143,7 @@
     "type": "user",
     "frequency": "day",
     "author": true,
-    "last": 1785345035314,
+    "last": 1789064026942,
     "userlist": " \n\n\n\n"
   },
   "pomodoro": {
@@ -162,6 +161,31 @@
     "volume": 0.7,
     "alarm": "marimba",
     "history": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {},
       {},
       {},
@@ -569,6 +593,13 @@
     "parent": "film",
     "title": "Yandex",
     "url": "https://yandex.com/"
+  },
+  "linksqramna": {
+    "_id": "linksqramna",
+    "order": 7,
+    "parent": "Social",
+    "title": "zalo",
+    "url": "https://chat.zalo.me"
   },
   "linksrgaidm": {
     "_id": "linksrgaidm",
